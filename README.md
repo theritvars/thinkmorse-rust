@@ -1,4 +1,4 @@
-# thinkmorse-rust
+# thinkmorse-rust [![Build Status](https://travis-ci.org/RichusX/thinkmorse-rust.svg?branch=master)](https://travis-ci.org/RichusX/thinkmorse-rust)
 A Rust version of the Python thinkmorse script
 
 ## Prerequisites
